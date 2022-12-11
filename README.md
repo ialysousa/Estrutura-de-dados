@@ -1,5 +1,21 @@
 # Estrutura-de-dados
 
+<div align="center">
+  <h1>Estrutura de Dados em <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  alt="c" height=30/></h1>
+  
+  #### Repositório de estudos de Estruturas de Dados na linguagem C.
+  
+</div>
+
+---
+<h2 id="conteudos">Conteúdos</h2>
+
+** Listas:**
+- [Lista Sequencial](./estrutura_de_dados/ListaSequencial)
+- [Lista Simplesmente Encadeada](./estrutura_de_dados/ListaSimpEncad)
+- [Lista Duplamente Encadeada](./estrutura_de_dados/ListaDuplaEncad)
+- [Lista Encadeada Circular](./estrutura_de_dados/ListaCircular)
+<hr>
 Questao 1: Considere uma aplicação gráfica que define dois tipos estruturados identificados pelos nomes Ponto e Circulo. O
 tipo estruturado Ponto representa o objeto ponto em duas dimensões, que é composto por duas coordenadas tipo float. O tipo
 estruturado Circulo representa o objeto círculo composto por um nome (que nunca contém mais do que 10 caracteres, p.ex.
