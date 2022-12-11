@@ -11,10 +11,10 @@
 <h2 id="conteudos">Conteúdos</h2>
 
 #### Listas
-- [Lista Sequencial]
-- [Lista Simplesmente Encadeada](./estrutura_de_dados/ListaSimpEncad)
-- [Lista Duplamente Encadeada](/Estrutura-de-Dados/listaDEncadeada)
-- [Lista Encadeada Circular](./estrutura_de_dados/ListaCircular)
+- Lista Sequencial
+- Lista Simplesmente Encadeada
+- Lista Duplamente Encadeada
+- Lista Encadeada Circular
 <hr>
 Questao 1: Considere uma aplicação gráfica que define dois tipos estruturados identificados pelos nomes Ponto e Circulo. O
 tipo estruturado Ponto representa o objeto ponto em duas dimensões, que é composto por duas coordenadas tipo float. O tipo
