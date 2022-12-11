@@ -13,7 +13,7 @@
 ** Listas:**
 - [Lista Sequencial](./estrutura_de_dados/ListaSequencial)
 - [Lista Simplesmente Encadeada](./estrutura_de_dados/ListaSimpEncad)
-- [Lista Duplamente Encadeada](./Estrutura-de-dados/listaDEncadeada)
+- [Lista Duplamente Encadeada](./Estrutura-de-Dados/listaDEncadeada)
 - [Lista Encadeada Circular](./estrutura_de_dados/ListaCircular)
 <hr>
 Questao 1: Considere uma aplicação gráfica que define dois tipos estruturados identificados pelos nomes Ponto e Circulo. O
